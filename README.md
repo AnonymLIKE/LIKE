@@ -1,5 +1,7 @@
 # Like
 
+This repository contains a demonstration of the LIKE protocol. The instructions below explain hot to install and compile the project and how to run the demonstration. In the `doc` folder, you can find a full version of the paper describing the protocol.
+
 ## Installation
 
 #### Install dependencies
